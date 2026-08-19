@@ -1,4 +1,42 @@
-# 📈 Analysis Performed
+# Marketing Funnel & Conversion Performance Analysis
+
+An interactive data analytics project focused on analyzing marketing funnel performance, customer conversion patterns, campaign effectiveness, contact channel performance, and opportunities to improve lead-to-customer conversion.
+
+Built using Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Streamlit.
+
+---
+
+## 🔗 Project Links
+
+*GitHub Repository:*  
+https://github.com/Naina137/Marketing-Funnel-and-Conversion-Performance-Analysis
+
+*Live Streamlit Dashboard:*  
+https://marketing-funnel-and-conversion-performance-analysis-ymxdoixnv.streamlit.app/
+
+*LinkedIn:*  
+https://www.linkedin.com/in/naina-kumari-06373132b
+
+---
+
+## 📌 Project Overview
+
+Marketing funnel analysis helps businesses understand how potential customers move through different stages of the customer journey and where opportunities are lost before conversion.
+
+This project analyzes the *Bank Marketing Dataset* to understand:
+
+- Customer response patterns
+- Marketing campaign performance
+- Conversion behavior
+- Contact channel performance
+- Customer segments
+- Previous campaign outcomes
+- Funnel progression and potential drop-offs
+
+The final deliverable is an interactive *Streamlit dashboard* that converts raw marketing data into meaningful visual insights and actionable business recommendations.
+
+---
+
 
 # 🖥️ Dashboard Preview
 
