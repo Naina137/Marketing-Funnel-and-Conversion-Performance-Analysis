@@ -6,7 +6,7 @@ Built using Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Streamlit.
 
 ---
 
-## 🔗 Project Links
+## Project Links
 
 *GitHub Repository:*  
 https://github.com/Naina137/Marketing-Funnel-and-Conversion-Performance-Analysis
@@ -19,7 +19,7 @@ https://www.linkedin.com/in/naina-kumari-06373132b
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Marketing funnel analysis helps businesses understand how potential customers move through different stages of the customer journey and where opportunities are lost before conversion.
 
@@ -143,7 +143,7 @@ This analysis compares previous campaign outcomes with current customer conversi
 
 ---
 
-# 📌 Key Performance Indicators
+# Key Performance Indicators
 
 The dashboard focuses on important marketing performance metrics such as:
 
@@ -178,15 +178,13 @@ The interactive Streamlit dashboard provides:
 
 ---
 
-# 💡 Key Insights & Recommendations
+#  Key Insights & Recommendations
 
 ![Key Insights and Recommendations](KeyInsights-recommendatins.png)
 
 This section summarizes important findings and translates analytical results into actionable business recommendations.
 
-
-
-
+# Project Objective
 
 - Analyze marketing funnel performance
 - Calculate important conversion metrics
@@ -292,7 +290,7 @@ The analysis follows a structured data preparation process:
 11. Identify business insights
 12. Present results through Streamlit.
 
-# 💼 Business Recommendations
+#  Business Recommendations
 
 ### 1. Improve Funnel Conversion
 
@@ -324,7 +322,7 @@ Track conversion rate, contacted customers, converted customers, and funnel drop
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 Marketing-Funnel-and-Conversion-Performance-Analysis/
@@ -384,7 +382,7 @@ http://localhost:8501
 
 ---
 
-# 📦 Requirements
+#  Requirements
 
 The project uses:
 
@@ -453,7 +451,7 @@ The project can be further enhanced with:
 
 ---
 
-# 🧠 Skills Demonstrated
+#  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis
@@ -490,7 +488,7 @@ The project focuses on funnel analysis, conversion metrics, campaign performance
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 ## Naina Kumari
 
@@ -500,7 +498,7 @@ Interested in Data Science, Data Analytics, Machine Learning, Business Intellige
 
 ---
 
-# 🔗 Connect With Me
+#  Connect With Me
 
 **GitHub:**  
 https://github.com/Naina137
